@@ -1,0 +1,63 @@
+*{
+	margin: 0px
+	padding: 0px;
+}
+
+div#Centro {
+    position: center;
+	width: 1250px;
+	height: 2200px;
+	margin-left: 150px;
+	margin-right: 150px;
+	background-color: #CDCDCD;
+	margin-right: auto;
+	margin-left: auto;
+	background: red;
+}
+
+
+
+div#General1 {
+    position: center;
+	width: 1250px;
+	height: 2200px;
+	margin-left: 150px;
+	margin-right: 150px;
+	background-color: #CDCDCD;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+div#Horario{
+	float: left;
+	width: 400px;
+	height: 2200px;
+	background-color: #212F3D;
+	margin-left: 0px;
+	margin-right: 20px;
+	
+}
+
+div#Festividad1{
+	margin: auto;
+	margin-left: auto; 
+	width: 1200px;
+	height: 800px;
+}
+
+div#Festividad2{
+    margin: auto;
+    margin-top: 10px;
+	margin-left: auto; 
+	width: 1200px;
+	height: 750px;
+}
+
+div#Festividad3{
+   
+	margin: auto;
+	margin-left: auto; 
+	width: 1200px;
+	height: 600px;
+}

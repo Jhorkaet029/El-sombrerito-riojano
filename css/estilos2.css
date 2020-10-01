@@ -1,0 +1,52 @@
+
+/*Recuperado de: https://www.youtube.com/watch?v=sOyA84uhoCQ*/
+
+*{
+	margin: 0px
+	padding: 0px;
+}
+
+div#general {
+	margin: 50px;
+	margin-top: 90px;
+	width: 1600px;
+	height: 1020px;
+	
+}
+
+div#Contáctenos{
+
+	width: 700px;
+	height: 1020px;
+
+}
+
+div#Ubicación{
+	
+	width: 780px;
+	height: 500px;
+
+}
+
+div#Descripción{
+	
+	margin-top: 20px;
+	width: 780px;
+	height: 500px;
+
+}
+
+div#Mapa{
+	position: center;
+	float: center;
+}
+
+
+
+
+
+
+
+
+
+

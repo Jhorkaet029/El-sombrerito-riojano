@@ -1,0 +1,211 @@
+/*Recuperado de: https://www.youtube.com/watch?v=3mdQuS8VHKg*/
+
+
+.navegacion{
+	width: 1050px;
+	margin: -20px auto;
+	background:#050A4C; 
+}
+.navegacion{
+	list-style: none;
+}
+
+.menu li{
+	position: relative;
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+   /*arreglar*/
+.menu  li  a{
+	display: block;
+	padding: 4px 20px;
+	color: #FBFF6D; 
+	font-family:'Open sans';
+	text-decoration: black;
+	font-size: 16px;
+	list-style: black;
+}
+
+
+.menu li a:hover{
+    color: purple;
+    transition: all .6s;
+    background: yellow;
+}
+
+div#desplegable {
+	display: none;
+}
+
+.menu li:hover div#desplegable{
+	display: block;
+	float: left;
+	background: #AF1300;
+
+}
+
+
+
+div#desplegable1 {
+	display: none;
+}
+
+.menu li:hover div#desplegable1{
+	display: block;
+	float: left;
+	background: #FF2F2F;
+}
+
+
+
+
+
+
+div#general {
+	position: right;
+	margin: auto;
+	margin-top: 320px;
+	float: right;
+	width: 750px;
+	max-width: 900px;
+	height: 270px;	
+}
+
+div#Img{
+	margin: -90px;
+	width: 720px;
+	height: auto;
+	margin-top: -300px;
+}
+
+div#Info{
+	margin: auto;
+	width: 1400px;
+	max-width: auto;
+	background: #490000;
+		
+}
+
+
+div#Cuerpo{
+
+	float: center;
+    margin: auto;
+    margin-top: 100px;
+    width: 1500px;
+	height: auto;
+	max-height: 1700px;
+	color:#FCF3CF;
+}
+
+
+
+
+div#Menú1{
+    position: center;
+	width: 1500px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div#Menú2{
+    position: center;
+	width: 1400px;
+	height: 100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div#Menú{
+	margin: auto;
+	width: center;
+	height: auto;
+}
+
+
+div#Info1{
+	margin: 30px;
+	width: center;
+	max-width: 9000px;
+	background:#FCCC72;
+	float: center;
+	position: center;
+
+}
+
+div#Img1{
+    margin: 250px;
+	width: center;
+	height: 0px;
+	color:#FCF3CF;
+}
+
+div#Info2{
+	margin: 90px;
+	width: center;
+	max-width: 1150px;
+	background:black;
+	float: center;
+	position: center;
+	display: block;
+
+}
+
+div#Centro {
+    position: center;
+	width: 1500px;
+	height: 2600px;
+	margin: 30px;
+	margin-right: auto;
+	margin-left: auto;
+    background: #F5FF8C;
+}
+
+div#Centro1 {
+	margin: 30px;
+    position: center;
+	width: 1500px;
+	height: 1300px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #9AD1ED;
+}
+
+
+div#Centro2 {
+	margin: auto;
+    position: center;
+	width: 1400px;
+	height: 1600px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 100px;
+	background: #1FC0BE;
+}
+
+div#Centro3 {
+	margin: auto;
+    position: center;
+	width: 1400px;
+	height: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 100px;
+	background: #942DD3;
+}
+
+div#Centro4 {
+	margin: auto;
+    position: center;
+	width: 1400px;
+	height: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 100px;
+	background: #35D32D;
+}
+

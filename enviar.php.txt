@@ -1,0 +1,11 @@
+<?php
+	$destino="acostajaneth00@gmail.com";
+	$nombre= $_Post["nombre"];
+	$correo= $_Post["correo"];
+	$telefono= $_Post["telefono"];
+	$mesaje= $_Post["Escriba aquí"];
+	$contenido = "Nombre: " .$nombre. "  "\nCorreo: " .$correo . "\nTeléfono " . $telefono . "\nMensaje: " . $mensaje;
+	mail($destino,"Contacto", $contenido);
+	header("Location:contacto.html");
+
+?>
